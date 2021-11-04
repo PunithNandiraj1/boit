@@ -1,0 +1,15 @@
+.tokenomics{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.tokenomics h1{
+    color: white;
+    text-align: center;
+    font-weight: 300;
+}
+.tokenomics img{
+    display: block;
+    margin: 100px auto;
+    justify-content: center;
+    width: 70%;
+}

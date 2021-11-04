@@ -1,0 +1,29 @@
+.faq {
+    display: block;
+    margin: 50px 0px;
+}
+.faq h1{
+    display: block;
+    text-align: center;
+    color: white;
+
+}
+.faq button{
+    display: block;
+    justify-content: center;
+    height: 50px;
+    width: 880px;
+    border: 2px solid white;
+    border-radius: 25px;
+    margin: 50px auto;
+    padding: 10px 20px;
+    background-color: grey;
+    font-size: 18px;
+
+}
+.faq button:hover {
+    background-color: blanchedalmond;
+}
+.faq svg{
+    float: right;
+}
